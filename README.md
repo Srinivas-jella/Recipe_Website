@@ -117,6 +117,7 @@ Contact for use.
 ### Recipe List
 ![Recipe Screenshot](Screenshot/Screenshot%202025-07-06%20221436.png)
 ### Recipe Details
+- You can view Category, Area, Ingredients, Preparation, Process, Youtube link for recipe
 ![Recipe Screenshot 2](Screenshot/Screenshot%202025-07-06%20222521.png)
 
 
