@@ -8,8 +8,8 @@ A simple yet powerful Recipe Web Application where users can search, view detail
 
 * Spring Boot (Java Backend)
 * MySQL Database
-* REST API Integration with [TheMealDB](https://www.themealdb.com/api.php)
-* Vanilla HTML, CSS & JavaScript Frontend
+* REST API Integration.
+* HTML, CSS & JavaScript Frontend
 
 ---
 
@@ -124,7 +124,8 @@ Contact for use.
 
 ## Screenshot
 
-![Recipe Screenshot](https://github.com/your-username/Recipe_Website/blob/main/Screenshot/2025-07-06 221436.png?raw=true)
+![Recipe Screenshot](Recipe_Website/Screenshot/Screenshot 2025-07-06 221436.png)
+
 
 
 If you want, I can prepare this as a `.md` file for direct download. Just say "Give `.md` file".
