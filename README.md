@@ -1,8 +1,4 @@
-Understood! Here's the full professional **README.md** content without any emojis, ready for plain copy-paste:
-
----
-
-# Recipe App (Spring Boot + Vanilla JS)
+# Recipe App
 
 A simple yet powerful Recipe Web Application where users can search, view details, and explore recipes, combining:
 
@@ -28,7 +24,7 @@ A simple yet powerful Recipe Web Application where users can search, view detail
 
 | Frontend      | Backend            | Database | Others                |
 | ------------- | ------------------ | -------- | --------------------- |
-| HTML, CSS, JS | Spring Boot (Java) | MySQL    | REST API, Lombok, JPA |
+| HTML, CSS, JS | Spring Boot (Java) | MySQL    | REST API, JPA |
 
 ---
 
