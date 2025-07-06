@@ -114,9 +114,10 @@ Contact for use.
 
 ## Screenshot
 
-
+### Recipe List
 ![Recipe Screenshot](Screenshot/Screenshot%202025-07-06%20221436.png)
-![Recipe Screenshot](Screenshot/Screenshot2025-07-06222521.png)
+### Recipe Details
+![Recipe Screenshot 2](Screenshot/Screenshot%202025-07-06%20222521.png)
 
 
 
