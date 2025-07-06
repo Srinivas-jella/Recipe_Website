@@ -124,7 +124,9 @@ Contact for use.
 
 ## Screenshot
 
-![Recipe Screenshot](Recipe_Website/Screenshot/Screenshot 2025-07-06 221436.png)
+
+![Recipe Screenshot](Screenshot/Screenshot%202025-07-06%20221436.png)
+
 
 
 
