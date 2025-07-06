@@ -92,12 +92,6 @@ mvn spring-boot:run
 ---
 
 
-## External API Used
-
-* [TheMealDB Public API](https://www.themealdb.com/api.php)
-
----
-
 ## Credits
 
 * Inspired by food enthusiasts and open-source recipe APIs
