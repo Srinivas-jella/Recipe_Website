@@ -120,6 +120,3 @@ Contact for use.
 - You can view Category, Area, Ingredients, Preparation, Process, Youtube link for recipe
 ![Recipe Screenshot 2](Screenshot/Screenshot%202025-07-06%20222521.png)
 
-
-
-If you want, I can prepare this as a `.md` file for direct download. Just say "Give `.md` file".
